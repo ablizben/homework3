@@ -14,7 +14,7 @@ The purpose of this homework was to create an application that will generate a r
   <li>GitHub Account</li>
 </ul>
 
-<h3>Refactoring Criteria</h3>
+<h3>Password Generator Criteria</h3>
 <ul>
   <li>Upon clicking the button, the user is presented with a series of prompts for password criteria</li>
   <li>Length of passwords should be at least 8 characters and no more than 128 characters</li>
