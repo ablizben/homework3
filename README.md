@@ -1,8 +1,6 @@
 <h2>Unit 03 Javascript Homework: Password Generator</h2>
 The purpose of this homework was to create an application that will generate a random password based on user-selected criteria. 
 
-<h3>Link: https://ablizben.github.io/homework3/</h3>
-
 <h3>Code Style</h3>
 <ul>
   <li>HTML</li>
@@ -52,3 +50,8 @@ The purpose of this homework was to create an application that will generate a r
 <ul>
     <li>Twitter Bootstrap 4</li>
 </ul>
+
+<h3>License: MIT</h3>
+
+<img src="password1.png">
+<img src="password2.png">
