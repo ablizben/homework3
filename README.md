@@ -53,5 +53,7 @@ The purpose of this homework was to create an application that will generate a r
 
 <h3>License: MIT</h3>
 
+<h3><a href="https://ablizben.github.io/homework3/">Link to App</a></h3>
+
 <img src="password1.png">
 <img src="password2.png">
